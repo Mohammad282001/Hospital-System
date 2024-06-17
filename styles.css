@@ -87,3 +87,22 @@ footer {
     padding: 10px 0;
     width: 100%;
 }
+
+.patient{
+    background-color:#45a049;
+    width: fit-content;
+    padding: 1rem;
+    margin: 1rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+
+}
+.patient-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
