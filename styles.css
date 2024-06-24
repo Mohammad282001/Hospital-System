@@ -106,3 +106,8 @@ footer {
     align-items: center;
 
 }
+ul{
+    list-style: none;
+    padding-inline-start: 0px;
+
+}
